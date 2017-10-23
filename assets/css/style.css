@@ -24,7 +24,7 @@ body {
 .circular{
   width: 300px;
   height: 300px;
-  background: url(images/elana_pic.jpg) no-repeat;
+  image-rendering: url(../images/Elana_photo.jpg) no-repeat;
   -webkit-border-radius:150px;
   -webkit-box-shadow:8px;
 }
@@ -81,7 +81,7 @@ h2, h3 {
   font-size: 30px;
   font-weight: 0;
   line-height: 90px;
-  color: #fff;
+/*  color: #fff;*/
   text-align: center;
   text-decoration: none;
 /*  background: #8FBAF3/*#85144b*/;*/
