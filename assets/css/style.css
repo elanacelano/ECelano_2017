@@ -14,14 +14,22 @@ body {
 }
 
 /* general */
-
+.logo{
+  background: "elana.jpg";
+}
+/*.container {
+  width: 304;
+  height: 236;
+  margin: 0 auto;
+  clear: both;
+*/
 .container {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
   clear: both;
 }
-.circular{
+.circular center-block{
   width: 300px;
   height: 300px;
   image-rendering: url(../images/Elana_photo.jpg) no-repeat;
@@ -73,7 +81,7 @@ h2, h3 {
 }
 
 #logo {
-  background: "../../images/elana.jpg";
+  background: Elana Celano "../../images/elana.jpg";
   float: left;
   width: 250px;
   height: 90px;
@@ -133,10 +141,10 @@ footer {
 }
 
 h3, .sidebar h2 {
-  padding-bottom: 20px;
+/*  padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid #eee;*/
  /* float: left;*/
 }
 
