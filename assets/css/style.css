@@ -14,7 +14,7 @@ body {
 }
 
 /* general */
-.logo{
+#logo{
   background: "elana.jpg";
 }
 /*.container {
@@ -35,6 +35,10 @@ body {
   image-rendering: url(../images/Elana_photo.jpg) no-repeat;
   -webkit-border-radius:150px;
   -webkit-box-shadow:8px;
+}
+img {
+ border-radius: 65%;
+ padding: 3px; 
 }
 
 h1, h2, h3, p {
