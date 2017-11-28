@@ -36,9 +36,9 @@ body {
   -webkit-border-radius:150px;
   -webkit-box-shadow:8px;
 }
-img {
- border-radius: 65%;
- padding: 3px; 
+img-circular{
+ border-radius: 85%;
+ padding: 13px; 
 }
 
 h1, h2, h3, p {
