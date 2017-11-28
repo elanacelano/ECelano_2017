@@ -14,15 +14,22 @@ body {
 }
 
 /* general */
-#logo{
+/*#logo{
   background: "elana.jpg";
-}
+}*/
 /*.container {
   width: 304;
   height: 236;
   margin: 0 auto;
   clear: both;
 */
+/*.navbar-brand{
+float: left;
+height: 50px;
+font-size: 18px;
+
+}*/ 
+
 .container {
   width: 100%;
   max-width: 960px;
