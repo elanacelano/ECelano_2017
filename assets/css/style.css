@@ -8,7 +8,10 @@ body {
   color: #777;
   background: url("../images/background.jpg");
 }
-
+.pinterest-grid {
+    position: relative;
+    transition: opacity .3s
+}
 * {
   box-sizing: border-box;
 }
